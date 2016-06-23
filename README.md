@@ -1,6 +1,6 @@
-## Proyecto-CUIA
+## Proyecto-CUIA 2016
 
-En este repositorio se encuentra el proyecto que se ha hecho para la asignatura Computación Ubicua e Iteligencia Ambiental del Grado en Ingeniería Informática, que consiste en la realización de una apliación utilizando realidad aumentada. En este caso se ha realizado un juego que utiliza un marcador. Tanto el apliación con extensión .apk, como el marcador que se necesita para imprimirlo y poder jugar se encuentran en este repositorio. Se ha realizado con el entorno de desarrollo de videjuegos Unity y la libería Vuforia.
+En este repositorio se encuentra el proyecto que se ha hecho para la asignatura Computación Ubicua e Iteligencia Ambiental del Grado en Ingeniería Informática durante el cruso 2015/2016, que consiste en la realización de una apliación utilizando realidad aumentada. En este caso se ha realizado un juego que utiliza un marcador. Tanto el apliación con extensión .apk, como el marcador que se necesita para imprimirlo y poder jugar se encuentran en este repositorio. Se ha realizado con el entorno de desarrollo de videjuegos Unity y la libería Vuforia.
 
 #### ATOMBALL
 
